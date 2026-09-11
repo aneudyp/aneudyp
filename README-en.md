@@ -1,6 +1,6 @@
 # Hi, I'm Aneudy Patiño 👋
 
-Systems Engineer & Digital Automation Specialist based in the Bronx, NY. I build business infrastructure powered by AI, CRM, and automation — from dispatch systems for medical transportation to marketing integrations that cut manual work and drive measurable results.
+Systems Engineer & Digital Automation Specialist. I build business infrastructure powered by AI, CRM, and automation — from dispatch systems for medical transportation to marketing integrations that cut manual work and drive measurable results.
 
 - 🔧 Currently optimizing digital operations and driver systems at **Along Car Service** (NEMT, NYC)
 - 🤖 Integrating AI + CRM (GoHighLevel) to automate marketing, sales, and onboarding
